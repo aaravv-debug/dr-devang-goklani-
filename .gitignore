@@ -3,3 +3,6 @@ node_modules/
 Thumbs.db
 *.log
 enhance_photo.ps1
+bundle.js
+server.js
+package.json
